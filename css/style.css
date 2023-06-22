@@ -1,0 +1,52 @@
+:root {
+    --primary-color: rgb (255 0 0);
+    --secondary-color: rgb (0 255 0);
+    --tertiary-color: rgb (0 0 255);
+    --back-color: hsl(0, 4%, 59%);
+}
+
+* {
+    background: var(--back-color);
+}
+
+body {
+    margin: 5;
+    padding: 5;
+    outline: 5;
+}
+
+img{
+    width: 350px;
+    height: 350px;
+}
+
+main {
+     display: flex;
+     justify-content: space-between;
+     width: 90%;
+     margin: 0 auto;
+}
+
+.box {
+    width: 430px;
+    height: 580px;
+    border: 6px solid;
+    background: gold;
+    margin-bottom: 20px;
+    text-align:start;
+    
+}
+
+#red {
+    background: rgb(190, 12, 12);
+}
+#green {
+    background: rgb(3, 103, 3);
+}
+#yellow {
+    background: rgb(255, 215, 0);
+}
+
+#brown {
+    background-color: rgb(120, 83, 50);
+}
