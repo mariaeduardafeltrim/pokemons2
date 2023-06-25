@@ -1,0 +1,108 @@
+:root {
+    --primary-color: rgb(88, 88, 88);
+    --secondary-color: rgb(88, 88, 88);
+    --tertiary-color: rgb(88, 88, 88);
+    --back-color: rgb(88, 88, 88);
+}
+
+body {
+    margin: 30px;
+    padding: 5px;
+    outline: 5px;
+}
+
+img{
+    width: 350px;
+    height: 350px;
+    background-color: rgb(56, 56, 56);
+}
+
+main {
+     display:flex;
+     justify-content:space-between;
+     width: 90%;
+     margin: 1 auto;
+}
+
+.box {
+    width: 410px;
+    height: 880px;
+    border: 5px solid;
+    background: gold;
+    margin-bottom: 50px;
+    margin-right: 25px;
+    text-align:center;
+}
+
+
+#green {
+    background: rgb(49, 163, 49);
+}
+
+#yellow {
+    background: rgb(255, 215, 0);
+}
+
+#purple {
+    background-color: rgb(50, 4, 92);
+}
+
+#lilas {
+    background-color: rgb(178, 95, 255);
+}
+
+#laranja {
+    background-color: rgb(247, 134, 54);
+}
+
+#azul {
+    background-color: rgb(92, 140, 212);
+}
+
+#cinza {
+    background-color: rgb(138, 138, 138);
+}
+
+#marrom {
+    background-color: sienna;
+}
+
+#cinzinha {
+    background-color: rgb(148, 148, 148);
+}
+
+#rosa {
+    background-color: rgb(255, 157, 157);
+}
+
+#gray {
+    background-color: rgb(92, 92, 92);
+}
+
+#azulcinza {
+    background-color: rgb(112, 127, 148);
+}
+
+#cinzarosa {
+    background-color: rgb(175, 124, 175);
+}
+
+#laranjinha {
+    background-color: rgb(255, 148, 60);
+}
+
+#verde {
+    background-color: rgb(34, 117, 85);
+}
+
+#verdin {
+    background-color: rgb(89, 194, 89);
+}
+
+#lilazinho {
+    background-color: darkorchid;
+}
+
+#roxinho {
+    background-color: rgb(158, 80, 155);
+}
